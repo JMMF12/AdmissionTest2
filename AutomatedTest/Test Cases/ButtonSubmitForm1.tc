@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar envio de informacion del formulario 1 = &quot;Calcula cuanto te prestan&quot;</description>
+   <name>ButtonSubmitForm1</name>
+   <tag>Basico</tag>
+   <comment></comment>
+   <testCaseGuid>ea6bb9a4-89b3-400e-bf8c-f7e098cf9a07</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d7fa2d98-3177-4edd-b3a1-dea345014e09</id>
+      <masked>false</masked>
+      <name>SelectOption</name>
+   </variable>
+</TestCaseEntity>

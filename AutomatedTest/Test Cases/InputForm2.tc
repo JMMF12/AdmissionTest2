@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InputForm2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c233fe0b-dd75-413d-bb7b-d265b2c86738</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0aeb998e-8a7e-4ec6-9731-cd73ced181de</id>
+      <masked>false</masked>
+      <name>Input</name>
+   </variable>
+</TestCaseEntity>
